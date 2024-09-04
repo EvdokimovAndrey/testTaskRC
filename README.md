@@ -7,6 +7,6 @@
 - считанные данные сохраняет на диск в виде файла *.json
 - бонусное задание: сохранить тот же файл *.json на сервер FTP
 
-## Таблица, с которой были записаны данные в файл "data.json":
-![image](https://github.com/user-attachments/assets/50157dae-78f4-4e9e-add9-18eda167fe56)
+## Таблица, с которой были записаны данные в файл "data.json":<br>
+![image](https://github.com/user-attachments/assets/50157dae-78f4-4e9e-add9-18eda167fe56)<br>
 Бэкап базы данных "test_db_backup.sql" также содержится в проекте.
